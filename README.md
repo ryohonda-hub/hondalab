@@ -1,6 +1,6 @@
 # Hondalab Laboratory Scripts
 
-Utility scripts for laboratory members for internal laboratory use.
+Utility scripts for internal laboratory use.
 
 ---
 
