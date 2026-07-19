@@ -1,4 +1,4 @@
-# Script to Check Your Quota on the NIG Supercomputer / 遺伝研スパコン用ディスク使用量確認スクリプト
+# Script to Check Your Quota on the NIG Supercomputer
 
 This script visualizes which files and directories occupy the most disk space in your quota.
 
