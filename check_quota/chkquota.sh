@@ -1,6 +1,6 @@
 #!/bin/bash
-#SBATCH --output=/home/ryohonda/log/%x_%j.out.log
-#SBATCH --error=/home/ryohonda/log/%x_%j.err.log
+#SBATCH --output=/home/your_username/log/%x_%j.out.log
+#SBATCH --error=/home/your_username/log/%x_%j.err.log
 
 USER_NAME="$(id -un)"
 DIR_HOME="/home/${USER_NAME}/"
